@@ -1,0 +1,115 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?nw6m4z');
+  src:  url('fonts/icomoon.eot?nw6m4z#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?nw6m4z') format('truetype'),
+    url('fonts/icomoon.woff?nw6m4z') format('woff'),
+    url('fonts/icomoon.svg?nw6m4z#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Booking-and-Scheduling:before {
+  content: "\e906";
+  color: #946a4d;
+}
+.icon-Comfortable-working-conditions:before {
+  content: "\e907";
+  color: #946a4d;
+}
+.icon-Competitive-salary:before {
+  content: "\e908";
+  color: #946a4d;
+}
+.icon-Development-your-skills:before {
+  content: "\e909";
+  color: #946a4d;
+}
+.icon-Educational-programs:before {
+  content: "\e90a";
+  color: #946a4d;
+}
+.icon-Flexible-Schedule:before {
+  content: "\e90b";
+  color: #946a4d;
+}
+.icon-Individual-Approach:before {
+  content: "\e90c";
+  color: #946a4d;
+}
+.icon-Professional-growth:before {
+  content: "\e90d";
+  color: #946a4d;
+}
+.icon-Support-24-7:before {
+  content: "\e90e";
+  color: #946a4d;
+}
+.icon-The-system-of-bonuses:before {
+  content: "\e90f";
+  color: #946a4d;
+}
+.icon-Beard-Trim:before {
+  content: "\e900";
+  color: #946a4d;
+}
+.icon-Clipper-Cut:before {
+  content: "\e901";
+  color: #946a4d;
+}
+.icon-Facial-amp-Massage:before {
+  content: "\e902";
+  color: #946a4d;
+}
+.icon-Haircut:before {
+  content: "\e903";
+  color: #946a4d;
+}
+.icon-Hot-Towel-Face-Shave:before {
+  content: "\e904";
+  color: #946a4d;
+}
+.icon-Moustache-Trim:before {
+  content: "\e905";
+  color: #946a4d;
+}
+.icon-user-tie:before {
+  content: "\e976";
+}
+.icon-hour-glass:before {
+  content: "\e979";
+}
+.icon-stats-dots:before {
+  content: "\e99b";
+}
+.icon-clipboard:before {
+  content: "\e9b8";
+}
+.icon-google:before {
+  content: "\ea88";
+}
+.icon-google-plus:before {
+  content: "\ea8b";
+}
+.icon-facebook:before {
+  content: "\ea90";
+}
+.icon-twitter:before {
+  content: "\ea96";
+}
